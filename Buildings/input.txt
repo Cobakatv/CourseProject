@@ -1,0 +1,120 @@
+addHospital
+Saint Albert
+2
+2 2
+20.5 5, 10 3
+10 2, 10.5 1
+
+addPolyclinic
+Santa Maria
+2
+2 2
+15 6, 17 8
+10 2, 19 6
+
+addStaff
+Santa Maria
+1 2
+3
+Alka Syster 20
+Sama Fal 20
+Fal Ban 20
+
+subStaff
+Santa Maria
+2
+Alka Syster
+Sama Fal
+
+addPatient
+Santa Maria
+1 1
+2
+Mark Auruley 20 plague
+Leonardo De 20 plague
+
+disPatients
+Santa Maria
+
+disStaff
+Santa Maria
+
+addStaff
+Saint Albert
+2 2
+1
+Anna Krushevich 19
+
+addPharmacy
+Kal
+1
+1
+13 3
+
+addStaff
+Saint Albert
+1 1
+2
+Anna Anderson 23
+Maikl Bolk 30
+
+subStaff
+Saint Albert
+1
+Anna Anderson
+
+addPatient
+Saint Albert
+2 1
+2
+Maikl Band 20 plague
+Elizabet March 22 plague
+
+addPatient
+Kal
+1 1
+1
+Anna Anderson 20 plague
+
+subPatient
+Saint Albert
+1
+Maikl Band
+
+disAllPosPeople
+Kal
+
+disFloors
+Saint Albert
+
+addDrugs
+Kal
+1 1
+Citramon 5, Coal 5
+
+subPatient
+Kal
+1
+Anna Anderson
+
+subDrugs
+Kal
+1 1 1
+Citramon 6
+
+disStaff
+Saint Albert
+
+disPatients
+Saint Albert
+
+disDrugs
+Kal
+
+disAllBuildings
+
+disBuild
+Pharmacy
+
+disAmountOfDrugs
+Kal

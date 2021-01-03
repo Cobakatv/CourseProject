@@ -1,0 +1,24 @@
+addHospital
+Saint Albert
+2
+2 2
+20.5 5, 10 3
+10 2, 10.5 1
+
+addPolyclinic
+Santa Maria
+2
+2 2
+15 6, 17 8
+10 2, 19 6
+
+deleteBuilding
+Saint Albert
+
+deleteBuilding
+Santa Maria
+
+deleteBuilding
+s
+
+disAllBuildings
